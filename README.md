@@ -10,11 +10,11 @@ Kelas : TI,24.A.3
 # input dan outpu dari Praktikum 5
 ## input
 
-<img src="praktikum5.png">
+<img src="Input.png">
 
 ## output
 
-<img src="outputpraktikum5.png">
+<img src="output.png">
 
 ## flowchart
 
